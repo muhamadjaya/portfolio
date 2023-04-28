@@ -14,9 +14,8 @@ const HeroSection = () => {
         <p className="text-md md:text-lg max-w-lg mb-3 text-gray-600 dark:text-gray-300">
           —— Front-End Engineer <br />
           <span className="text-sm">
-            I'm a React JS Front-End Engineer. I really love to design the
-            appearance of the website to make it more attractive and good user
-            experience.
+            Not only to jump out of the comfort zone, but to turn the original
+            challenging zone into new comfort zone.
           </span>
           <br />
         </p>

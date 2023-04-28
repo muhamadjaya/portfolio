@@ -9,8 +9,11 @@ import {
   SiGithub,
   SiFigma,
   SiOracle,
+  SiVisualstudio,
+  SiMicrosoftsqlserver,
 } from "react-icons/si";
 import { GrMysql } from "react-icons/gr";
+import { TbBrandNextjs } from "react-icons/tb";
 
 export default [
   {
@@ -54,11 +57,23 @@ export default [
     icon: <SiFigma className="w-full h-full text-rose-500" />,
   },
   {
-    title: "MySQL",
-    icon: <GrMysql className="w-full h-full text-blue-800" />,
+    title: "Next Js",
+    icon: <TbBrandNextjs className="w-full h-full text-black" />,
   },
   {
     title: "Oracle",
     icon: <SiOracle className="w-full h-full text-red-600" />,
+  },
+  {
+    title: "VB.Net",
+    icon: <SiVisualstudio className="w-full h-full text-purple-800" />,
+  },
+  {
+    title: "SQL Server",
+    icon: <SiMicrosoftsqlserver className="w-full h-full text-red-500" />,
+  },
+  {
+    title: "MySQL",
+    icon: <GrMysql className="w-full h-full text-blue-800" />,
   },
 ];

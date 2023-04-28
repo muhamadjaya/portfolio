@@ -7,14 +7,13 @@ const About = () => {
       <SectionTitle>About Me</SectionTitle>
       <div className="w-full md:w-12/12">
         <p className="text-md text-gray-600 dark:text-gray-300">
-          A fresh graduate student majoring in information systems who is very
-          enthusiastic about technology and business. I really like designing
-          website appearances to make it more attractive and research on User
-          Experience (UX), besides that I am also very interested in managing
-          the physical and technical aspects of a database like a database
-          administrator. I have developed various types of websites such as
-          Single Page Application (SPA) and designed databases to store data in
-          them.
+          My name is Muhamad Jaya, and I am a Front-End Engineer with a passion
+          to push my limits. Over the past 1+ years, I've been learning the ins
+          and outs of web programming with ReactJs and other JavaScript
+          Frameworks. I really like to design websites to be compatible with
+          browsers and make sure websites and applications are mobile friendly,
+          besides that I am always gaining valuable experience and developing my
+          skills.
         </p>
       </div>
     </div>
